@@ -1,6 +1,6 @@
 module github.com/OrestSaban/TODO-terminal-app
 
-go 1.24.0
+go 1.20.0
 
 require github.com/olekukonko/tablewriter v0.0.5
 

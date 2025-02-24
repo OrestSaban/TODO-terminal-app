@@ -130,6 +130,10 @@ func (todos *Todos) loadFromFile(filename string) error {
 	return json.Unmarshal(data, todos)
 }
 
+func (todos *Todos) clear() {
+    *todos = Todos{} // Reset the slice to an empty slice
+}
+
 
 
 
