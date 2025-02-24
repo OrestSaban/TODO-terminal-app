@@ -5,7 +5,7 @@ VERSION="v1.0"
 PLATFORM="linux-amd64" # Change to "darwin-amd64" for macOS
 
 # Define the download URL
-URL="https://github.com/OrestSaban/TODO-terminal-app/releases/download/$VERSION/todo-$PLATFORM"
+URL="https://github.com/OrestSaban/TODO-terminal-app/releases/download/$VERSION/todo-darwin-amd64"
 
 # Download the binary
 echo "Downloading todo tool..."
