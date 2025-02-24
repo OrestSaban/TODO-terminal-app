@@ -1,4 +1,4 @@
-module todo
+module github.com/OrestSaban/TODO-terminal-app
 
 go 1.24.0
 
