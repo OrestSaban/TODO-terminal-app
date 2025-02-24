@@ -5,7 +5,7 @@ SET VERSION=v1.0
 SET PLATFORM=windows-amd64.exe
 
 REM Define the download URL
-SET URL=https://github.com/yourusername/yourrepo/releases/download/%VERSION%/todo-%PLATFORM%
+SET URL=https://github.com/OrestSaban/TODO-terminal-app/releases/download/%VERSION%/todo-%PLATFORM%
 
 REM Download the binary
 echo Downloading todo tool...
